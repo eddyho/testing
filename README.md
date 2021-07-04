@@ -4,4 +4,5 @@ test R Studio linking
 3333+1
 333+1
 33 
-3+1234567
+
+7 deleted
